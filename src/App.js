@@ -1,23 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import { FaGithub} from "react-icons/fa";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div class="topnav">
+
+        <a href="#about">ABOUT</a>
+        <a href="#contact">PORTFOLIO</a>
+        <a href="#contact">BLOG</a>
+        <a href="#contact">RESUME</a>
+      </div>
+      <div className='body'>
+        <div className='text'>
+            <h1>Sunny Wan</h1>
+            <br></br>
+            <p>Mathematics and Computer Science Student at University of Toronto</p>
+            <br></br>
+            <a href="https://github.com/SunnyWan59" className='github'><FaGithub/></a>
+        </div>
+        <div className = 'picture'>
+          <img src={require('./pfp2.jpg')} alt ='profile picture' width="400" height="350"></img>
+        </div>
+
+
+      </div>
     </div>
   );
 }
