@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <div class="topnav">
 
-        <a href="#about">ABOUT</a>
+        <a href="About.html">ABOUT</a>
         <a href="#contact">PORTFOLIO</a>
-        <a href="#contact">BLOG</a>
+        <a href="#contact">BOOKSHELF</a>
         <a href="#contact">RESUME</a>
       </div>
       <div className='body'>
