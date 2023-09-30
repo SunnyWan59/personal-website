@@ -21,7 +21,7 @@ function Home(){
                 <div className='text'>
                     <h1>Sunny Wan</h1>
                     <br></br>
-                    <p>Mathematics and Computer Science Student at University of Toronto</p>
+                    <p>Mathematics Student at University of Toronto</p>
                     <br></br>
                     <a href="https://github.com/SunnyWan59" className='github'><FaGithub/></a>
                 </div>

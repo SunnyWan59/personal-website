@@ -18,14 +18,14 @@ function About(){
                 <div id="text">
                     <p>Hello! My name is Sunny and I am currently studying mathematics at the University of Toronto.
                         I hope to learn more about how techology, sepcifically artifical intelligence, changes how we 
-                        approach problems in the future. 
+                        approach future problem solving. 
 
                     </p>
                     <p>
                         Although I currently live in Toronto, I am originally from the Boston area, spending most of my 
-                        childhood there, and some of my fondest memories were hiking along various mountains and trails
-                        in New England. Nowadays though, I spend my time reading, working of personal projects and exploring all 
-                        that Toronto has to offer. 
+                        childhood there; some of my fondest summers were spent hiking along various mountains and trails
+                        of New England. Nowadays though, I spend most of my time reading, working of personal projects and
+                        exploring all that Toronto has to offer. 
                     </p>
                     
                     <p>
