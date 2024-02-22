@@ -16,9 +16,11 @@ function About(){
 
                 </div>
                 <div id="text">
-                    <p>Hello! My name is Sunny and I am currently studying mathematics at the University of Toronto.
-                        I hope to learn more about how techology, sepcifically artifical intelligence, changes how we 
-                        approach future problem solving. 
+                    <p>Hello! My name is Sunny and I am a third year student studying mathematics at the University of Toronto. 
+                        I am currently interested in AI art and aesthetics, exploring questions like: 'What is the Role of AI art in our society?' and
+                        'Can AI art be beautiful?'. 
+                        Of course, I am always looking for new experiances and exploiring topics that I are outside my comfort zone. 
+                        
 
                     </p>
                     <p>
