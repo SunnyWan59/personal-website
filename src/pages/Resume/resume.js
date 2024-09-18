@@ -1,11 +1,15 @@
 import React from 'react';
 import Navbar from '../../components/Navbar';
-
+import './writing.css';
 
 function Resume(){
     return(
-        <div>
+        <div className='body'>
             <Navbar/>
+            <div id="title"> Writing</div>
+            <hr width="100%" size="3" color="grey"></hr>
+
+            <p>Currently a work in progress!</p>
         </div>
     )
 }

@@ -2,28 +2,20 @@ import React from 'react';
 import { FaGithub} from "react-icons/fa";
 import { NavLink } from 'react-router-dom';
 import Main from '../../components/Main';
+import Navbar from '../../components/Navbar';
+import './home.css';
 
 
 function Home(){
     return(
-        <div>
-            <div class="topnav">
-
-                <NavLink to="/">HOME</NavLink>
-                <NavLink to="/about">ABOUT</NavLink>
-                <NavLink to="/bookshelf">BOOKSHELF</NavLink>
-                <NavLink to="/resume">RESUME</NavLink>
-            </div>
-            {/* <Main/> */}
-
-
+        <div className='body'>
+            <Navbar/>
             <div className='textbox'>
                 <div className='text'>
                     <h1>Sunny Wan</h1>
+                    
+                    <p>Student at University of Toronto</p>
                     <br></br>
-                    <p>Mathematics Student at University of Toronto</p>
-                    <br></br>
-                    <a href="https://github.com/SunnyWan59" className='github'><FaGithub/></a>
                 </div>
                 <div className = 'picture'>
                 <img src={require('./pfp2.jpg')} alt ='profile picture' width="400" height="350"></img>
