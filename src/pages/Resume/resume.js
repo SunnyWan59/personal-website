@@ -4,12 +4,14 @@ import './writing.css';
 
 function Resume(){
     return(
-        <div className='body'>
-            <Navbar/>
-            <div id="title"> Writing</div>
-            <hr width="100%" size="3" color="grey"></hr>
+        <div className='back'>
+            <div className='body'>
+                <Navbar/>
+                <div id="title"> Writing</div>
+                <hr width="100%" size="3" color="grey"></hr>
 
-            <p>Currently a work in progress!</p>
+                <p>Currently a work in progress!</p>
+            </div>
         </div>
     )
 }
