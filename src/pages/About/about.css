@@ -40,6 +40,11 @@ p{
     /* float: left; */
 }
 
+#text{
+    text-align: left;
+    font-size: 30px;
+}
+
 #page{
     /* white-space: nowrap; */
     display: grid;

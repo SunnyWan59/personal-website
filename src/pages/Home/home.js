@@ -14,7 +14,7 @@ function Home(){
                 <div className='textbox'>
                     <div className='text'>
                         <h1>Sunny Wan</h1>
-                        <p>Student at University of Toronto</p>
+                        Student at University of Toronto
                         <br></br>
                     </div>
                     <div className = 'picture'>

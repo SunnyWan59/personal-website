@@ -17,24 +17,13 @@ function About(){
 
                     </div>
                     <div id="text">
-                        <p>Hello! My name is Sunny and I am a fourth year student studying mathematics at the University of Toronto. 
-                            I am currently interested in AI art and aesthetics, exploring questions like: 'What is the Role of AI art in our society?' and
-                            'Can AI art be beautiful?'. 
-                            Of course, I am always looking for new experiances and exploiring topics that I are outside my comfort zone. 
-                            
-
-                        </p>
+                        <br></br>
+                        Hello!
                         <p>
-                            Although I currently live in Toronto, I am originally from the Boston area, spending most of my 
-                            childhood there; some of my fondest summers were spent hiking along various mountains and trails
-                            of New England. Nowadays though, I spend most of my time reading, working of personal projects and
-                            exploring all that Toronto has to offer. 
-                        </p>
-                        
-                        <p>
-                            Contact me if anyone is interested in talking!
-                            Email me at: sunnywan2020@gmail.com.
-
+                            Welcome to the website for my personal projects and writing! On here, I will be posting my 
+                            writing and creative projects, as well as thoughts on current culture and events. 
+                            Although I currently live in Toronto, I am originally from the Boston area, where I spend most of 
+                            my childhood summers hiking along various mountains and trails of New England. 
                         </p>
                     </div>
                 </div>
